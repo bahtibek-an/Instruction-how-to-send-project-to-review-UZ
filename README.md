@@ -138,6 +138,6 @@ Pull Request yaratilgandan so'ng, loyingiz ko'rib chiqiladi. Agar o'zgarishlar s
    - O'zgarishlarni push qilgandan so'ng, GitHub'dagi Pull Requestingizga qayting.
    - O'zgarishlar qilinganligi to'g'risida izoh qoldiring va zarur bo'lsa aniq to'g'rilashlarni ko'rsating.
 
-4. **Qoshimcha malumot**:
+4. **Qoshimcha ma'lumot**:
    - Pull Requestingizni qayta ko'rib chiqishini kutib turing.
    - Agar yangi o'zgarish so'rovlari bo'lsa, 1-3 qadamlarni takrorlang.
