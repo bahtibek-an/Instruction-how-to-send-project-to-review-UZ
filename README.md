@@ -107,7 +107,7 @@
 
    ![Pull Request Yaratish](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/721cb514-2404-40db-a121-3ca8cc9124d4)
 
-3. O'z shoxingizni tanlang va `Create pull request` tugmasini bosing.
+3. O'z branchingizni tanlang va `Create pull request` tugmasini bosing.
 
    ![Shoxni Tanlash](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/982e7c57-87af-4baf-b17b-9d9ee0106b9b)
 
@@ -122,11 +122,11 @@
 Pull Request yaratilgandan so'ng, loyingiz ko'rib chiqiladi. Agar o'zgarishlar so'ralsa, quyidagi qadamlarni bajaring:
 
 1. **O'zgarish So'rovi Tekshiruvi**:
-   - Loyihangizning Pull Request bo'limida "O'zgarishlar So'ralgan" (Requested changes) qismini toping.
+   - Loyihangizning Pull Request bo'limida "Requested changes" (O'zgarishlar So'ralgan) qismini toping.
    - Izohlar va o'zgarish so'rovlarni diqqat bilan o'qing.
 
 2. **O'zgarishlarni Bajarish**:
-   - Loyihangizning mahalliy versiyasiga qayting va zarur o'zgarishlarni kiritib chiqing.
+   - Loyihangizning local versiyasiga qayting va zarur o'zgarishlarni kiritib chiqing.
    - O'zgarishlarni kiritib bo'lgach, ularni saqlang va Git buyruqlarini bajarib, o'zgarishlarni qo'shish, commit qilish va push qilishga o'ting.
      ```
      git add .
@@ -138,6 +138,6 @@ Pull Request yaratilgandan so'ng, loyingiz ko'rib chiqiladi. Agar o'zgarishlar s
    - O'zgarishlarni push qilgandan so'ng, GitHub'dagi Pull Requestingizga qayting.
    - O'zgarishlar qilinganligi to'g'risida izoh qoldiring va zarur bo'lsa aniq to'g'rilashlarni ko'rsating.
 
-4. **Keyingi Javob**:
+4. **Qoshimcha malumot**:
    - Pull Requestingizni qayta ko'rib chiqishini kutib turing.
    - Agar yangi o'zgarish so'rovlari bo'lsa, 1-3 qadamlarni takrorlang.
