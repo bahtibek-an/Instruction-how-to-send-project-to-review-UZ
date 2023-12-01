@@ -3,65 +3,64 @@
 ## **Loyihalar Ro'yxati**
 
 - Frontend
-  - [Mening Dropboxim](https://github.com/bahtibek-an/Frontend-My-Dropbox)
-  - [Mening Instagramim](https://github.com/bahtibek-an/frontend-my_intagram)
-  - [Mening Pokemonim](https://github.com/bahtibek-an/Frontend-my_pokemon)
-  - [Mening Yelpim](https://github.com/bahtibek-an/Frontend-My-Yelp)
-  - [React Kalkulyator](https://github.com/bahtibek-an/Frontend-React-Calculator)
+  - [My Dropbox](https://github.com/bahtibek-an/Frontend-My-Dropbox)
+  - [My Instagram](https://github.com/bahtibek-an/frontend-my_intagram)
+  - [My Pokemon](https://github.com/bahtibek-an/Frontend-my_pokemon)
+  - [My Yelp](https://github.com/bahtibek-an/Frontend-My-Yelp)
+  - [React Calculator](https://github.com/bahtibek-an/Frontend-React-Calculator)
 - Backend
-  - [Mening Basecamp 2](https://github.com/bahtibek-an/Backend-My-basecamp-2)
-  - [Mening Apim](https://github.com/bahtibek-an/Backend-My-Api)
-  - [Mening Yelpim](https://github.com/bahtibek-an/Frontend-My-Yelp)
-  - [Mening Dropboxim](https://github.com/bahtibek-an/Frontend-My-Dropbox)
+  - [My Basecamp 2](https://github.com/bahtibek-an/Backend-My-basecamp-2)
+  - [My Api](https://github.com/bahtibek-an/Backend-My-Api)
+  - [My Yelp](https://github.com/bahtibek-an/Frontend-My-Yelp)
+  - [My Dropbox](https://github.com/bahtibek-an/Frontend-My-Dropbox)
 - Full-Stack
-  - [Mening CSSim oson li](https://github.com/bahtibek-an/Full-Stack-My-Css-Is-Easy-Ii)
-  - [Mening Foydalanuvchilar Illovam](https://github.com/bahtibek-an/Full-Stack-My-Users-App)
-  - [Mening Sqlitem](https://github.com/bahtibek-an/Full-Stack-My-Sqlite)
-  - [Mening Tetrisim](https://github.com/bahtibek-an/Full-Stack-My-Tetris)
-  - [Mening Basecamp 1](https://github.com/bahtibek-an/Full-Stack-My-Basecamp-1)
+  - [My CSS is easy li](https://github.com/bahtibek-an/Full-Stack-My-Css-Is-Easy-Ii)
+  - [My Users App](https://github.com/bahtibek-an/Full-Stack-My-Users-App)
+  - [My Sqlite](https://github.com/bahtibek-an/Full-Stack-My-Sqlite)
+  - [My Tetris](https://github.com/bahtibek-an/Full-Stack-My-Tetris)
+  - [My Basecamp 1](https://github.com/bahtibek-an/Full-Stack-My-Basecamp-1)
 - ARC 01
-  - [Mening Ngrammim](https://github.com/smplLemon/arc-01-my_ngram/blob/main)
-  - [Mening Mastermindim](https://github.com/smplLemon/arc-01-my_mastermind/blob/main)
-  - [Mening Printfim](https://github.com/smplLemon/arc-01-my_printf/blob/main)
+  - [My Ngram](https://github.com/smplLemon/arc-01-my_ngram/blob/main)
+  - [My Mastermind](https://github.com/smplLemon/arc-01-my_mastermind/blob/main)
+  - [My Printf](https://github.com/smplLemon/arc-01-my_printf/blob/main)
 - ARC 02
-  - [Mening ls](https://github.com/smplLemon/arc-02-my_ls/blob/main)
-  - [Mening Tar](https://github.com/smplLemon/arc-02-my_tar/blob/main)
-  - [Mening Readlineim](https://github.com/smplLemon/arc-02-my_readline/blob/main)
-  - [Mening Blockchainim](https://github.com/smplLemon/arc-02-my_blockchain/blob/main)
+  - [My ls](https://github.com/smplLemon/arc-02-my_ls/blob/main)
+  - [My Tar](https://github.com/smplLemon/arc-02-my_tar/blob/main)
+  - [My Readline](https://github.com/smplLemon/arc-02-my_readline/blob/main)
+  - [My Blockchain](https://github.com/smplLemon/arc-02-my_blockchain/blob/main)
 
-- Dasturiy injiniring
-  - [Mening Bsq](https://github.com/smplLemon/season-2-SE-my_bsq/blob/main)
-  - [Mening Bc](https://github.com/smplLemon/season-2-SE-my_bc/blob/main/README.md)
-  - [Mening Sichqoncham](https://github.com/smplLemon/season-2-SE-my_mouse/blob/main/README.md)
-  - [Mening zsh](https://github.com/smplLemon/season-2-SE-my_zsh/blob/main)
-  - [Mening Allocinem](https://github.com/smplLemon/season-2-SE-my_allocine/blob/main)
-  - [Mening Sqlitem](https://github.com/smplLemon/season-2-SE-my_sqlite/blob/main/README.md)
-  - [Mening Curlim](https://github.com/smplLemon/season-2-SE-my_curl/blob/main)
-  - [Mening Libasm](https://github.com/smplLemon/season-2-SE-my_libasm/blob/main/README.md)
-  - [Mening Mallocim](https://github.com/smplLemon/season-2-SE-my_malloc/blob/main/README.md)
+- Software engineering
+  - [My Bsq](https://github.com/smplLemon/season-2-SE-my_bsq/blob/main)
+  - [My Bc](https://github.com/smplLemon/season-2-SE-my_bc/blob/main/README.md)
+  - [My Mouse](https://github.com/smplLemon/season-2-SE-my_mouse/blob/main/README.md)
+  - [My zsh](https://github.com/smplLemon/season-2-SE-my_zsh/blob/main)
+  - [My Allocine](https://github.com/smplLemon/season-2-SE-my_allocine/blob/main)
+  - [My Sqlite](https://github.com/smplLemon/season-2-SE-my_sqlite/blob/main/README.md)
+  - [My Curl](https://github.com/smplLemon/season-2-SE-my_curl/blob/main)
+  - [My Libasm](https://github.com/smplLemon/season-2-SE-my_libasm/blob/main/README.md)
+  - [My Malloc](https://github.com/smplLemon/season-2-SE-my_malloc/blob/main/README.md)
 
-- Ma'lumotlar Fanlari
-  - [Mening Mr Clean](https://github.com/abdullaabdukulov/02-Data-Science-My-Mr-Clean-/blob/main)
-  - [Mening Nba O'yin Tahlili](https://github.com/abdullaabdukulov/02-Data-Science-My-Nba-Game-Analysis-/blob/main)
-  - [Mening Irisni Ochiq Qiling](https://github.com/abdullaabduk
+- Data Science
+  - [My Mr Clean](https://github.com/abdullaabdukulov/02-Data-Science-My-Mr-Clean-/blob/main)
+  - [My Nba Game Analysis](https://github.com/abdullaabdukulov/02-Data-Science-My-Nba-Game-Analysis-/blob/main)
+  - [My Open The Iris](https://github.com/abdullaabdukulov/02-Data-Science-My-Open-The-Iris-)
+  - [My Ds Babel](https://github.com/abdullaabdukulov/02-Data-Science-My-Ds-Babel-/blob/main)
+  - [My Tu Verras](https://github.com/abdullaabdukulov/02-Data-Science-My-Tu-Verras/blob/main)
+  - [My M And A](https://github.com/abdullaabdukulov/02-Data-Science-My-M-and-A/tree/main)
+  - [My Convex Optimization](https://github.com/abdullaabdukulov/02-Data-Science-My-Convex-Optimization/tree/main)
+  - [My Linear Regression](https://github.com/abdullaabdukulov/02-Data-Science-My-Linear-Regression/tree/main)
+  - [My Vivino](https://github.com/abdullaabdukulov/02-Data-Science-My-Vivino/tree/main)
+- 03 Data Science
+  - [Drive Me Crazy](https://github.com/abdullaabdukulov/03-Data-Science-Drive-Me-Crazy-/blob/main)
+  - [A Fool Fraud](https://github.com/abdullaabdukulov/03-Data-Science-A-Fool-Fraud-/blob/main)
+  - [Coleridge Initiative](https://github.com/abdullaabdukulov/03-Data-Science-Coleridge-Initiative-/blob/main)
 
-ulov/02-Data-Science-My-Open-The-Iris-)
-  - [Mening Ds Babel](https://github.com/abdullaabdukulov/02-Data-Science-My-Ds-Babel-/blob/main)
-  - [Mening Tu Verras](https://github.com/abdullaabdukulov/02-Data-Science-My-Tu-Verras/blob/main)
-  - [Mening M Va A](https://github.com/abdullaabdukulov/02-Data-Science-My-M-and-A/tree/main)
-  - [Mening Convex Optimization](https://github.com/abdullaabdukulov/02-Data-Science-My-Convex-Optimization/tree/main)
-  - [Mening Linear Regression](https://github.com/abdullaabdukulov/02-Data-Science-My-Linear-Regression/tree/main)
-  - [Mening Vivino](https://github.com/abdullaabdukulov/02-Data-Science-My-Vivino/tree/main)
-- 03 Ma'lumotlar Fanlari
-  - [Meni Aqldan Ozdir](https://github.com/abdullaabdukulov/03-Data-Science-Drive-Me-Crazy-/blob/main)
-  - [Aholi Aldovi](https://github.com/abdullaabdukulov/03-Data-Science-A-Fool-Fraud-/blob/main)
-  - [Coleridge Tashabbusi](https://github.com/abdullaabdukulov/03-Data-Science-Coleridge-Initiative-/blob/main)
-- Mashinasozlik O'rganish
+- Machine Learning
   - [Visa For Lisa](https://github.com/abdullaabdukulov/03-Machine-Learning-Visa-For-Lisa-/blob/main)
-  - [An'anaviy Punk](https://github.com/abdullaabdukulov/03-Machine-Learning-Classically-Punk-/tree/main)
-  - [Mening PayPalim](https://github.com/abdullaabdukulov/03-Machine-Learning-My-Paypal)
-  - [Atari O'yinlari](https://github.com/abdullaabdukulov/03-Machine-Learning-Atari-Games-/tree/main)
-
+  - [Classically Punk](https://github.com/abdullaabdukulov/03-Machine-Learning-Classically-Punk-/tree/main)
+  - [My PayPal](https://github.com/abdullaabdukulov/03-Machine-Learning-My-Paypal)
+  - [Atari Games](https://github.com/abdullaabdukulov/03-Machine-Learning-Atari-Games-/tree/main)
+  
 ## **Loyihani Yuborish Bosqichlari**
 
 ### **Bosqich 1: Repositorydan Nusxa Oling**
@@ -69,14 +68,14 @@ ulov/02-Data-Science-My-Open-The-Iris-)
 2. `Fork` tugmasini bosing.
 
    ![Fork tugmasi misoli](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/699d3f09-66fe-44d4-8eaa-5089d87244ee)
+3. Yangi forkingizda `Create fork` tugmasini bosing.
 
 ### **Bosqich 2: Repositoryni Klonlash**
-1. Yangi forkingizda `Create fork` tugmasini bosing.
-2. Repositoryni klonlash URLini nusxalang.
+1. Repositoryni klonlash URLini nusxalang.
 
    <img width="1263" alt="rasm" src="https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/assets/57597976/fdecc150-8137-4568-8f1f-d269ac087a1c">
    
-4. Terminalda quyidagi buyruqni bajarish:
+2. Terminalda quyidagi buyruqni bajarish:
    ```
    git clone NUSXALANGAN_URL
    ```
