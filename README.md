@@ -50,6 +50,7 @@
   - [My Convex Optimization](https://github.com/abdullaabdukulov/02-Data-Science-My-Convex-Optimization/tree/main)
   - [My Linear Regression](https://github.com/abdullaabdukulov/02-Data-Science-My-Linear-Regression/tree/main)
   - [My Vivino](https://github.com/abdullaabdukulov/02-Data-Science-My-Vivino/tree/main)
+  - [My Mobapp](https://github.com/abdullaabdukulov/02-Data-Science-My-Mobapp-Studio-)
 - 03 Data Science
   - [Drive Me Crazy](https://github.com/abdullaabdukulov/03-Data-Science-Drive-Me-Crazy-/blob/main)
   - [A Fool Fraud](https://github.com/abdullaabdukulov/03-Data-Science-A-Fool-Fraud-/blob/main)
