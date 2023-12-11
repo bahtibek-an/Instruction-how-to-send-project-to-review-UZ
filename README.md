@@ -61,6 +61,15 @@
   - [Classically Punk](https://github.com/abdullaabdukulov/03-Machine-Learning-Classically-Punk-/tree/main)
   - [My PayPal](https://github.com/abdullaabdukulov/03-Machine-Learning-My-Paypal)
   - [Atari Games](https://github.com/abdullaabdukulov/03-Machine-Learning-Atari-Games-/tree/main)
+## **Quyida sanab o'tilgan loyihalar tekshirilmaydi.**
+- Full-Stack Java
+  - [National Parks Uml](https://github.com/bahtibek-an/fullstack-java-National-Parks-Uml/blob/main)
+  - [My Java Mastermind](https://github.com/bahtibek-an/fullstack-java-My-Java-Mastermind/blob/main)
+  - [My Spring Portfolio](https://github.com/bahtibek-an/full-stack-java-My-Spring-Portfolio/blob/main/README.md)
+- Cloud Engineer
+  - [My Fully Managed Api](https://github.com/bahtibek-an/Cloud-Engineer-My-Fully-Managed-Api/blob/main)
+  - [My Cloud Yelp](https://github.com/bahtibek-an/Cloud-Engineer-My-Cloud-Yelp/blob/main)
+  - [My Self Hosted Dropbox](https://github.com/bahtibek-an/Frontend-My-Dropbox)
   
 ## **Loyihani Yuborish Bosqichlari**
 
