@@ -51,6 +51,8 @@
   - [My Linear Regression](https://github.com/abdullaabdukulov/02-Data-Science-My-Linear-Regression/tree/main)
   - [My Vivino](https://github.com/abdullaabdukulov/02-Data-Science-My-Vivino/tree/main)
   - [My Mobapp](https://github.com/abdullaabdukulov/02-Data-Science-My-Mobapp-Studio-)
+  - [My First Scraper](https://github.com/abdullaabdukulov/02-Data-Science-My-First-Scraper-Ds/tree/main)
+  - [My Imdb Api](https://github.com/abdullaabdukulov/Preseason-Data-My-Imdb-Api/tree/main)
 - 03 Data Science
   - [Drive Me Crazy](https://github.com/abdullaabdukulov/03-Data-Science-Drive-Me-Crazy-/blob/main)
   - [A Fool Fraud](https://github.com/abdullaabdukulov/03-Data-Science-A-Fool-Fraud-/blob/main)
