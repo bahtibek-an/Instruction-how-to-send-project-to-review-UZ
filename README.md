@@ -47,6 +47,7 @@
   - [My Ds Babel](https://github.com/abdullaabdukulov/02-Data-Science-My-Ds-Babel-/blob/main)
   - [My Tu Verras](https://github.com/abdullaabdukulov/02-Data-Science-My-Tu-Verras/blob/main)
   - [My M And A](https://github.com/abdullaabdukulov/02-Data-Science-My-M-and-A/tree/main)
+  - [My Allocine](https://github.com/abdullaabdukulov/My-Allocine)
   - [My Convex Optimization](https://github.com/abdullaabdukulov/02-Data-Science-My-Convex-Optimization/tree/main)
   - [My Linear Regression](https://github.com/abdullaabdukulov/02-Data-Science-My-Linear-Regression/tree/main)
   - [My Vivino](https://github.com/abdullaabdukulov/02-Data-Science-My-Vivino/tree/main)
